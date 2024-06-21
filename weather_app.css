@@ -108,7 +108,7 @@ body{
 
 
 /* Media query for mobile view (320px x 667px) */
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .card {
         width: 100%;
         margin: 20px auto 0;
